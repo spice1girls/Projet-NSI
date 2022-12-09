@@ -8,6 +8,8 @@ sujet 1: jeu d'aventure avec scenario où le but est de finir le jeu. Il y aurai
       
 sujet 2: un jeu chill (inspiré de Animal Crossing)
 
+Sujet 3: jeu d'échec instructif, personnage aidé d'une entité doit vaincre des "boss" pour s'échapper du jeu
+
 Info: 
 -doit être adaptable à la taille de l'écran.
 -faire une intro stylé
